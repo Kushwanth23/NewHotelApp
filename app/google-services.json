@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170525904361",
+    "project_id": "newhotelapp-db6eb",
+    "storage_bucket": "newhotelapp-db6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170525904361:android:bc16a9f3a69152cc5e0f78",
+        "android_client_info": {
+          "package_name": "com.example.newhotelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170525904361-3laq3e83viml4lqv6truregmuuau464g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1t5_80k7FiT13yFA7AI5DdDSqXeOlSz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170525904361-3laq3e83viml4lqv6truregmuuau464g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
